@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1400615251 source:e:\swe\final project\glassctionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<Windows.h>
+
+1400615251 e:\swe\final project\glassctionary\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1400615251 source:e:\swe\final project\glassctionary code\functions.c
+	"Header.h"
+
+1400615251 e:\swe\final project\glassctionary code\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1400615246 source:e:\swe\final project\glassctionary code\logo.rc
+
+1400615251 source:e:\swe\final project\glassctionary code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<Windows.h>
+
+1400615246 source:e:\swe\glassctionary\glassctionary code\logo.rc
+
+1400667103 source:e:\swe\glassctionary\glassctionary code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<Windows.h>
+
+1400615251 e:\swe\glassctionary\glassctionary code\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1400665895 source:e:\swe\glassctionary\glassctionary code\functions.c
+	"Header.h"
+
+1400615246 source:e:\software engineering\level one\glassctionary\glassctionary code\logo.rc
+
+1400672957 source:e:\software engineering\level one\glassctionary\glassctionary code\functions.c
+	"Header.h"
+
+1400615251 e:\software engineering\level one\glassctionary\glassctionary code\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
